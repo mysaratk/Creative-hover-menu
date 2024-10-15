@@ -1,4 +1,5 @@
-Project Description
+Project Description:
+
 This web project features a visually engaging interface that highlights the planets of our solar system. Built using HTML and CSS, the design employs a stunning gradient background and a starry image to evoke a celestial atmosphere.
 
 Key Features:
